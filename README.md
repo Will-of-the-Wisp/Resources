@@ -1,5 +1,5 @@
-# Resources
-A collection of resources created by [Will o' Wisp Games](http://www.willowispgames.com/) for the MIT Licensed Open Source version of [Torque3D](http://www.torque3d.org/) from [GarageGames](http://www.garagegames.com/).
+# Fading Gui Controls
+A collection of new gui conrtrol classes that support fading in/out via custom rendering code and script commands. Created by [Will o' Wisp Games](http://www.willowispgames.com/) for the MIT Licensed Open Source version of [Torque3D](http://www.torque3d.org/) from [GarageGames](http://www.garagegames.com/).
 
 # License
 All resources are MIT Licensed under the original license included with Torque3D. 
