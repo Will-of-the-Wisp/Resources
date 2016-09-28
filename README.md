@@ -7,6 +7,7 @@ An extension to the GuiObjectView class by Will o' Wisp Games.
 * Extended camera
 
 # Tech Blog
+Please leave any feedback about this resource in the comments:
 [Extended GuiObjectView Blog Post](http://www.willowispgames.com/tech/2016/09/27/ExtGuiObjView.html)
 
 # Installation
