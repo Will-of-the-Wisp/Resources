@@ -1,5 +1,5 @@
 # Extended GuiObjectView v1.0
-An extension to the GuiObjectView class by Will o' Wisp Games.
+An extension to the GuiObjectView class by [Will o' Wisp Games](http://www.willowispgames.com/).
 
 # Extended Features
 * Sub-mesh visibility states
