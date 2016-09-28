@@ -1,15 +1,15 @@
 # Extended GuiObjectView v1.0
 An extension to the GuiObjectView class by Will o' Wisp Games.
 
-* Extended Features
-• Sub-mesh visibility states
-• Sub-mesh skinning support
-• Extended camera
+# Extended Features
+* Sub-mesh visibility states
+* Sub-mesh skinning support
+* Extended camera
 
-* Tech Blog
+# Tech Blog
 [Extended GuiObjectView Blog Post](http://www.willowispgames.com/tech/2016/09/15/ExtGuiObjView.html)
 
-* Installation
+# Installation
 <h3>Source Code:</h3>
 <b>1 -</b> Backup your existing <filepath>"source\T3D\guiObjectView.h"</filepath> and <filepath>"source\T3D\guiObjectView.cpp"</filepath> files.<br>
 <b>2 -</b> Replace <filepath>"source\T3D\guiObjectView.h"</filepath> and <filepath>"source\T3D\guiObjectView.cpp"</filepath> with the updated files provided.<br>
