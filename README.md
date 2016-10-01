@@ -13,6 +13,14 @@ A collection of new gui control classes that support fading in/out via custom re
 Please leave any feedback about this resource in its tech blog:
 [Extended GuiObjectView Blog Post](http://www.willowispgames.com/tech/2016/10/01/FadingGuiControls.html)
 
+#Installation
+<h3>Source Code:</h3>
+<b>1 -</b> Create a new directory <filepath>"source\gui\fading\"</filepath>.<br>
+<b>2 -</b> Copy the provided source files into the new directory.<br>
+<b>3 -</b> Open your project and add the new <filepath>'fading'</filepath> filter under <filepath>"torque3d\gui\"</filepath> to mirror the new directory.<br>
+<b>4 -</b> Right-click the new <filepath>'fading'</filepath> filter and choose 'Add Existing Item' from the dropdown. Go ahead and add each of the 4 new source files.<br>
+<b>5 -</b> Recompile. A successful install will allow the new classes to be used and their <b>fadeIn()</b> and <b>fadeOut()</b> functions called from script.<br>
+
 # License
 All resources are MIT Licensed under the original license included with Torque3D.<br> 
 No clauses, no additions, no requirements. Enjoy the resource.<br>
