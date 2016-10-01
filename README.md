@@ -7,7 +7,7 @@ An extension to the GuiObjectView class by [Will o' Wisp Games](http://www.willo
 * Extended camera
 
 # Tech Blog
-Please leave any feedback about this resource in the comments:
+Please leave any feedback about this resource in its tech blog:
 [Extended GuiObjectView Blog Post](http://www.willowispgames.com/tech/2016/09/27/ExtGuiObjView.html)
 
 # Installation
@@ -20,6 +20,6 @@ Please leave any feedback about this resource in the comments:
 An example script file has been provided, which can be initialized with the other .gui scripts in <b>"scripts\client\init.cs"</b>(as of T3D 3.9, when 4.0 hits expect filepaths for scripts to change). The example script will cause any GuiObjectView control named <b>'PreviewGui'</b> to automatically reset its camera's position when the control's <b>onWake()</b> is called. It is recommended that this script be included to promote a better understanding of the resource and how it is used from script.<br>
 
 # License
-All resources are MIT Licensed under the original license included with Torque3D. 
-
-If you find any resources helpful you can thank us by leaving feedback on our [blog](http://www.willowispgames.com/blog/).
+All resources are MIT Licensed under the original license included with Torque3D.<br> 
+No clauses, no additions, no requirements. Enjoy the resource.<br>
+If you find any resources helpful you can thank us or show your support by leaving feedback on our [blog](http://www.willowispgames.com/blog/).
