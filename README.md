@@ -10,8 +10,8 @@ A collection of new gui control classes that support fading via custom rendering
 * <b>GuiFadingButtonCtrl :</b> Gui button control that will fade in and out. Only for buttons with no image, using profiles to 'fill' the color and borders.<br>
 
 # Tech Blog
-For more information about the development and usage of this resource check out its tech blog:
-[Fading Gui Controls Blog Post](http://www.willowispgames.com/tech/2016/10/01/FadingGuiControls.html)
+For more information about the development and usage of this resource check out its tech blog:<br>
+<center>[Fading Gui Controls Blog Post](http://www.willowispgames.com/tech/2016/10/01/FadingGuiControls.html)</center><br>
 
 #Installation
 <h3>Source Code:</h3>
