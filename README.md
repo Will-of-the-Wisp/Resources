@@ -11,7 +11,8 @@ A collection of new gui control classes that support fading via custom rendering
 
 # Tech Blog
 For more information about the development and usage of this resource check out its tech blog:<br>
-[Fading Gui Controls Blog Post](http://www.willowispgames.com/tech/2016/10/01/FadingGuiControls.html)
+<br>
+[Fading Gui Controls Blog Post](http://www.willowispgames.com/tech/2016/10/01/FadingGuiControls.html)<br>
 
 #Installation
 <h3>Source Code:</h3>
