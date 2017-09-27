@@ -1,14 +1,10 @@
 # Extended GuiObjectView v1.0
-An extension to the GuiObjectView class by [Will o' Wisp Games](http://www.willowispgames.com/).
+An extension to the GuiObjectView class by Jesse Allen.
 
 # Extended Features
 * Sub-mesh visibility states
 * Sub-mesh skinning support
 * Extended camera
-
-# Tech Blog
-Please leave any feedback about this resource in its tech blog:
-[Extended GuiObjectView Blog Post](http://www.willowispgames.com/tech/2016/09/27/ExtGuiObjView.html)
 
 # Installation
 <h3>Source Code:</h3>
@@ -21,5 +17,4 @@ An example script file has been provided, which can be initialized with the othe
 
 # License
 All resources are MIT Licensed under the original license included with Torque3D.<br> 
-No clauses, no additions, no requirements. Enjoy the resource.<br>
-If you find any resources helpful you can thank us or show your support by leaving feedback on our [blog](http://www.willowispgames.com/blog/).
+No clauses, no additions, no requirements. Enjoy the resources.<br>
