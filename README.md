@@ -3,4 +3,4 @@ A collection of resources created by Jesse Allen for the MIT Licensed Open Sourc
 
 # License
 All resources are MIT Licensed under the original license included with Torque3D.<br>
-No clauses, no additions, no requirements. Enjoy the resource.<br>
+No clauses, no additions, no requirements. Enjoy the resources.<br>
