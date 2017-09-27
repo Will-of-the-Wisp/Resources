@@ -1,6 +1,6 @@
 
 # Fading Gui Controls
-A collection of new gui control classes that support fading via custom rendering code and script commands. Created by [Will o' Wisp Games](http://www.willowispgames.com/) for the MIT Licensed Open Source version of [Torque3D](http://www.torque3d.org/) from [GarageGames](http://www.garagegames.com/).
+A collection of new gui control classes that support fading via custom rendering code and script commands. Created by Jesse Allen for the MIT Licensed Open Source version of [Torque3D](http://www.torque3d.org/) from [GarageGames](http://www.garagegames.com/).
 
 # New Classes
 * <b>GuiFadingBitmapButtonCtrl :</b> Gui button control with an image that will fade in and out.<br>
@@ -8,11 +8,6 @@ A collection of new gui control classes that support fading via custom rendering
 * <b>GuiFadingBitmapCtrl :</b> Gui control with an image that will fade in and out. Includes child controls.<br>
 <br>
 * <b>GuiFadingButtonCtrl :</b> Gui button control that will fade in and out. Only for buttons with no image, using profiles to 'fill' the color and borders.<br>
-
-# Tech Blog
-For more information about the development and usage of this resource check out its tech blog:<br>
-<br>
-[Fading Gui Controls Blog Post](http://www.willowispgames.com/tech/2016/10/01/FadingGuiControls.html)<br>
 
 #Installation
 <h3>Source Code:</h3>
@@ -24,5 +19,4 @@ For more information about the development and usage of this resource check out 
 
 # License
 All resources are MIT Licensed under the original license included with Torque3D.<br> 
-No clauses, no additions, no requirements. Enjoy the resource.<br>
-If you find any resources helpful you can thank us or show your support by leaving feedback on our [blog](http://www.willowispgames.com/blog/).
+No clauses, no additions, no requirements. Enjoy the resources.<br>
